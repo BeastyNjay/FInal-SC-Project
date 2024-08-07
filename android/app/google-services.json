@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11289896151",
+    "project_id": "phoenix-8549c",
+    "storage_bucket": "phoenix-8549c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11289896151:android:15f29d959c7227848d7c92",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0eqZpVkyeSLzrcDJOHUa-MTCtwcnzCRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
